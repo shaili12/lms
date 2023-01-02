@@ -23,9 +23,6 @@ admin.site.index_title='Library Management'
 admin.site.site_header='Admin Dashboard' 
 
 
-# 
-
-
 
 urlpatterns = [
     path('admin/', admin.site.urls),
